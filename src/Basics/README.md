@@ -26,7 +26,7 @@ Console.WriteLine(sayi); // 100
 
 ### byte
 
-'byte', 8-bitlik işaretsiz tamsayıyı temsil eder. 0 ile 255 arasında değer alabilir.
+`byte`, 8-bitlik işaretsiz tamsayıyı temsil eder. 0 ile 255 arasında değer alabilir.
 
 #### Örnek:
 
@@ -38,7 +38,7 @@ Console.WriteLine(yas); // 25
 
 ### short
 
-'short', 16-bitlik işaretli tamsayıyı temsil eder. -32,768 ile 32,767 arasında değer alabilir.
+`short`, 16-bitlik işaretli tamsayıyı temsil eder. -32,768 ile 32,767 arasında değer alabilir.
 
 #### Örnek:
 
@@ -51,7 +51,7 @@ Console.WriteLine(sicaklik); // -10
 
 ### long
 
-'long', 64-bitlik işaretli tamsayıyı temsil eder. -9,223,372,036,854,775,808 ile 9,223,372,036,854,775,807 arasında değer alabilir.
+`long`, 64-bitlik işaretli tamsayıyı temsil eder. -9,223,372,036,854,775,808 ile 9,223,372,036,854,775,807 arasında değer alabilir.
 
 #### Örnek:
 
